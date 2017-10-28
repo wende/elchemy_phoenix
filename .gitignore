@@ -1,0 +1,31 @@
+# Elixir
+
+/_build
+/cover
+/deps
+/doc
+
+*.ez
+.fetch
+erl_crash.dump
+
+
+# Elm
+
+/elm-deps
+/elm-stuff
+.elchemy_*
+
+
+# Personal preferences
+
+/lib/**/*.elchemy.ex
+
+
+# Other
+
+.DS_Store
+
+elm-deps
+elm-package.json
+elm-stuff
